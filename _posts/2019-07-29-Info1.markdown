@@ -1,7 +1,0 @@
----
-layout: post
-date: 2017-07-29 02:19
----
-TOALETY NIE DZIAŁAJĄ <br>
-TUTAJ SĄ NOWE <br>
-<img src="/assets/mapa.jpg" alt="">
