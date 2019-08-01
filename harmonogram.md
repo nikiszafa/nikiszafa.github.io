@@ -1,3 +1,4 @@
+<p>POZDRO</p>
 <p>26-28 sierpnia (pon. &ndash; śr.) : kwaterka zlotowa&nbsp;</p>
 <hr />
 <p>28 sierpnia</p>
