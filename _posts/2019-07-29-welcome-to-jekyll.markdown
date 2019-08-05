@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Witamy na zlocie!!!"
 date:   2019-07-29 02:55:05 +0200
 categories: jekyll update
 ---

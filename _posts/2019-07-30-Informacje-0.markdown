@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Informacje dla harcerzy
 date: 2019-07-30 01:55:05 +0200
 ---
 <p>Czuwaj!&nbsp;</p>
