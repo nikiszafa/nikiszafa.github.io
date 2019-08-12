@@ -15,4 +15,4 @@ title: Pierwsze informacje
 Wyspa Sobieszewska k. Gdańska, ul. Wieniecka.<br/>
 Miejsce Zlotu ZHP w roku 2018 oraz przyszłorocznego Zlotu Euro Jamboree 2020. <br/>
 Zlot odbywa się pod patronatem Marszałka Województwa Pomorskiego, Pana Mieczysława Struka.</p>
-![Lokalizacja](/images/map.png)
+![Lokalizacja]({{ site.url }}/images/map.png)
