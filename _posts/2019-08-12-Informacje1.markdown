@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-08-12 17:18:05 +0200
-title: Aplikacja Zlotowa
+title: Pierwsze informacje
 ---
 <p><strong>Komenda:</strong><br />
 <strong>Komendant Zlotu</strong>: hm. Artur Nowak<br />
@@ -15,4 +15,4 @@ title: Aplikacja Zlotowa
 Wyspa Sobieszewska k. Gdańska, ul. Wieniecka.<br/>
 Miejsce Zlotu ZHP w roku 2018 oraz przyszłorocznego Zlotu Euro Jamboree 2020. <br/>
 Zlot odbywa się pod patronatem Marszałka Województwa Pomorskiego, Pana Mieczysława Struka.</p>
-<p>&lt;iframe src="https://www.google.com/maps/d/embed?mid=1OrW1cxaKd0QGAYhjKpaW106paovE6mRt&amp;hl=pl" width="640" height="480"&gt;&lt;/iframe&gt;</p>
+![Lokalizacja](/images/map.png)
